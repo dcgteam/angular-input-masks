@@ -1,0 +1,22 @@
+{
+  "name": "angular-input-masks",
+  "description": "Personalized input masks for AngularJS",
+  "main": "index.js",
+  "authors": [
+    "igor.rafael@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "input",
+    "mask",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/dcgteam/angular-input-masks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
