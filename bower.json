@@ -1,7 +1,10 @@
 {
   "name": "angular-input-masks",
   "description": "Personalized input masks for AngularJS",
-  "main": "index.js",
+  "main": [
+    "dist/select.js",
+    "dist/select.css"
+  ],
   "authors": [
     "igor.rafael@gmail.com"
   ],
