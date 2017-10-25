@@ -2,7 +2,7 @@
   "name": "angular-input-masks",
   "description": "Personalized input masks for AngularJS",
   "main": [
-    "releases/angular-input-masks-standalone.js"
+    "./releases/angular-input-masks-standalone.js"
   ],
   "authors": [
     "igor.rafael@gmail.com"
