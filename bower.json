@@ -1,5 +1,5 @@
 {
-  "name": "angular-input-masks",
+  "name": "ng-input-masks",
   "description": "Personalized input masks for AngularJS",
   "main": [
     "releases/angular-input-masks-standalone.js"
@@ -13,7 +13,7 @@
     "mask",
     "angularjs"
   ],
-  "homepage": "https://github.com/dcgteam/angular-input-masks",
+  "homepage": "https://github.com/dcgteam/ng-input-masks",
   "ignore": [
     "**/.*",
     "node_modules",
